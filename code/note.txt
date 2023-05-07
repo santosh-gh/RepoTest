@@ -1,0 +1,6 @@
+Kubernetes service accounts are Kubernetes resources, created and managed using the Kubernetes API, 
+meant to be used by in-cluster Kubernetes-created entities, such as Pods, 
+to authenticate to the Kubernetes API server or external services.
+
+
+
